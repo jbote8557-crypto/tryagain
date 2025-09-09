@@ -10,10 +10,10 @@ var overviewerConfig = {
             "queryMarker": "markers/marker_location.png",
             "queryMarker2x": "markers/marker_location_2x.png",
             "compass": {
-                "0": "compass_upper-left.png",
-                "1": "compass_upper-right.png",
-                "3": "compass_lower-left.png",
-                "2": "compass_lower-right.png"
+                "0": "other/compass_upper-left.png",
+                "1": "other/compass_upper-right.png",
+                "3": "other/compass_lower-left.png",
+                "2": "other/compass_lower-right.png"
             }
         },
         "mapDivId": "mcmap",
@@ -51,6 +51,35 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "The Current World",
+            "last_rendertime": 1756607945,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -862,
+                76,
+                14
+            ],
+            "lastrenderversion": 2,
+            "minZoom": 0,
+            "spawn": [
+                -862,
+                76,
+                14
+            ],
+            "north_direction": 0
+        },
+		{
+		
+            "name": "Beginning of the World",
+            "zoomLevels": 11,
+            "defaultZoom": 1,
+            "maxZoom": 11,
+            "path": "Before",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "The World Before",
             "last_rendertime": 1756607945,
             "imgextension": "png",
             "isOverlay": false,
