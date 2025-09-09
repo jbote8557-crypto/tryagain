@@ -42,11 +42,11 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Server as of 9-8-25",
+            "name": "World as of 9/8/25",
             "zoomLevels": 11,
             "defaultZoom": 1,
             "maxZoom": 11,
-            "path": "survivalday",
+            "path": "Survival Day",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "World",
