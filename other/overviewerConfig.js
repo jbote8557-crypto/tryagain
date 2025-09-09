@@ -24,6 +24,7 @@ var overviewerConfig = {
     },
     "worlds": [
         "The Current World",
+		"2022",
 		"The World Before"
     ],
     "map": {
@@ -51,6 +52,35 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "The Current World",
+            "last_rendertime": 1756607945,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -862,
+                76,
+                14
+            ],
+            "lastrenderversion": 2,
+            "minZoom": 0,
+            "spawn": [
+                -862,
+                76,
+                14
+            ],
+            "north_direction": 0
+        },
+	    {
+		
+            "name": "World as of 2022",
+            "zoomLevels": 11,
+            "defaultZoom": 1,
+            "maxZoom": 11,
+            "path": "Beginning",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "2022",
             "last_rendertime": 1756607945,
             "imgextension": "png",
             "isOverlay": false,
