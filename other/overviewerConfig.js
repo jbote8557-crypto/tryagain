@@ -23,7 +23,7 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "World",
+        "World"
     ],
     "map": {
         "debug": false,
