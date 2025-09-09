@@ -23,7 +23,8 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "World"
+        "The Current World",
+		"The World Before"
     ],
     "map": {
         "debug": false,
@@ -49,7 +50,7 @@ var overviewerConfig = {
             "path": "Survival Day",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "World",
+            "world": "The Current World",
             "last_rendertime": 1756607945,
             "imgextension": "png",
             "isOverlay": false,
