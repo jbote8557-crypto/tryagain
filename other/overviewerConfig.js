@@ -69,33 +69,5 @@ var overviewerConfig = {
             ],
             "north_direction": 0
         }
-        {
-            "name": "The world as of 2022",
-            "zoomLevels": 11,
-            "defaultZoom": 1,
-            "maxZoom": 11,
-            "path": "nothing",
-            "base": "",
-            "bgcolor": "#1a1a1a",
-            "world": "EarlyWorld",
-            "last_rendertime": 1756607945,
-            "imgextension": "png",
-            "isOverlay": false,
-            "poititle": "Markers",
-            "showlocationmarker": true,
-            "center": [
-                -862,
-                76,
-                14
-            ],
-            "lastrenderversion": 2,
-            "minZoom": 0,
-            "spawn": [
-                -862,
-                76,
-                14
-            ],
-            "north_direction": 0
-        }
     ]
 };
