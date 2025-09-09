@@ -42,7 +42,7 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Survival Daytime",
+            "name": "Server as of 9/8/25",
             "zoomLevels": 11,
             "defaultZoom": 1,
             "maxZoom": 11,
