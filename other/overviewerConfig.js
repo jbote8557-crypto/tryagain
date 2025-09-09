@@ -24,7 +24,6 @@ var overviewerConfig = {
     },
     "worlds": [
         "World",
-         "EarlyWorld"
     ],
     "map": {
         "debug": false,
