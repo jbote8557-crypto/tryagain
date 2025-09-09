@@ -23,7 +23,8 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "World"
+        "World",
+         "EarlyWorld"
     ],
     "map": {
         "debug": false,
